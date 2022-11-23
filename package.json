@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/francescobonetti/Node-project/issues"
   },
-  "homepage": "https://github.com/francescobonetti/Node-project#readme"
+  "homepage": "https://github.com/francescobonetti/Node-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
